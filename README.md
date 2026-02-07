@@ -57,7 +57,12 @@ Always open to **collaboration**, *discussions*, and *new ideas* 🚀
  
 
 <details>
-<summary><img src="https://i.ibb.co/pBSM7zHr/image.png" height="60" alt="My Website"/></summary>
+<summary>
+
+![View Projects](https://img.shields.io/badge/🎯_View_current_Projects_&_works-0d1117?style=for-the-badge)
+
+</summary>
+
 
 
 ---
@@ -115,7 +120,11 @@ Always open to **collaboration**, *discussions*, and *new ideas* 🚀
 
 
 <details>
-<summary><img src="https://i.ibb.co/W4229gP9/image.png" height="50" alt="My Website"/></summary>
+<summary>
+
+![View Projects](https://img.shields.io/badge/💻_View_education_and_learning_resources-0d1117?style=for-the-badge)
+
+</summary>
 
 - 🎓 **B.Tech / B.E in AI & Data Science**  
   *(Currently Pursuing)*  
