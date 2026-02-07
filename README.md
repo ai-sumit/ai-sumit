@@ -9,17 +9,23 @@
 
 ### Glad to see you here! 😊
 
+### 📚 My Learning Approach
+I believe in **learning by doing**, experimenting with data, and building small projects to understand concepts deeply.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="Sumit Haldar" /> </p>
-<p align="left"> <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="iampavangandhi" height="200px" width="300px"/> </p>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-sumit&theme=github-light" alt="Contribution Graph" />
 </p>
 
-**AI & Data Science** Engineering Student 🎓 passionate about **AI, ML, and Data Analysis.**
+
+
+
+<p align="left"> <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="iampavangandhi" height="200px" width="300px"/> </p>
+
+I'm a **AI & Data Science** Engineering Student 🎓 passionate about **AI, ML, and Data Analysis.**
 I enjoy working with data, building intelligent solutions, and learning by doing through real-world projects using **Python** and modern tools.
 
 Always open to **collaboration**, *discussions*, and *new ideas*. 
-
 
 
 
