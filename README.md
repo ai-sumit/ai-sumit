@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Sumit Haldar!](https://github.com/YOUR_GITHUB_USERNAME)
+## Hey there 👋, I'm [Sumit Haldar!](https://github.com/ai-sumit)
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/sumit-haldar)
 [![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/@sumit_hald88327)
