@@ -51,7 +51,10 @@ Always open to **collaboration**, *discussions*, and *new ideas* 🚀
 
 ---
 
-
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-sumit&theme=radical" alt="GitHub Streak">
+</p>
 
 
  
@@ -69,7 +72,7 @@ Always open to **collaboration**, *discussions*, and *new ideas* 🚀
 
 ### 🤖 AI & Machine Learning Projects
 <p>
-  <img src="https://via.placeholder.com/800x400.png?text=AI+%26+ML+Project+Demo" alt="AI ML Project Demo" width="100%">
+  <img src="https://i.ibb.co/TBp6M82Z/image.png" alt="AI ML Project Demo" width="70%">
 </p>
 
 - Machine Learning models for prediction & classification  
@@ -81,7 +84,7 @@ Always open to **collaboration**, *discussions*, and *new ideas* 🚀
 
 ### 📊 Data Analysis with Python
 <p>
-  <img src="https://via.placeholder.com/800x400.png?text=Data+Analysis+Dashboard" alt="Data Analysis Demo" width="100%">
+  <img src="https://i.ibb.co/3mRXH3zn/image.png" alt="Data Analysis Demo" width="70%">
 </p>
 
 - Exploratory Data Analysis (EDA)  
@@ -91,7 +94,7 @@ Always open to **collaboration**, *discussions*, and *new ideas* 🚀
 
 ---
 
-### 🌐 CSJournal.in (Personal Platform)
+### 🌐 CSJournal.in (my blogging platform)
 <p>
   <img src="https://i.ibb.co/PvWvQ51Q/image.png" alt="CSJournal Website Demo" width="70%">
 </p>
