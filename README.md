@@ -8,14 +8,14 @@
 
 ---
 
-### Glad to see you here! 😊
+### Glad to see you here! 😊 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ai-sumit&label=Profile%20views&color=green&style=flat" alt="Sumit Haldar" />
+</p>
 
 ### 📚 My Learning Approach
 I believe in **learning by doing**, experimenting with data, and building small projects to understand concepts deeply.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ai-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="Sumit Haldar" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-sumit&theme=github-light" alt="Contribution Graph" />
